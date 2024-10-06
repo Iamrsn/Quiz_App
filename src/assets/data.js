@@ -1,0 +1,42 @@
+export const data=[{
+    question:"What is React?",
+    option1:"A JavaScript framework for building mobile apps",
+    option2:"A library for building user interfaces",
+    option3:"A backend framework for Node.js",
+    option4:"A database management system",
+    ans:2,
+},
+{
+    question:"What is JSX in React?",
+    option1:"A templating language for React",
+    option2:"A syntax extension that allows mixing HTML with JavaScript",
+    option3:"A built-in CSS framework",
+    option4:"A tool for bundling JavaScript files",
+    ans:2,
+},
+{
+    question:"Which method is used to update the state in React class components?",
+    option1:"setState()",
+    option2:"updateState()",
+    option3:"stateChange()",
+    option4:"changeState()",
+    ans:1,
+},
+{
+    question:"What is the purpose of useState in React?",
+    option1:"To fetch data from an API",
+    option2:"To add event listeners to DOM elements",
+    option3:"To manage and update state in a functional component",
+    option4:"To handle side effects in a component",
+    ans:3,
+},
+{
+    question:"What is a component in React?",
+    option1:"A function that returns HTML",
+    option2:"A reusable piece of UI",
+    option3:"A collection of JavaScript functions",
+    option4:"A styling framework in React",
+    ans:2,
+},
+
+]
